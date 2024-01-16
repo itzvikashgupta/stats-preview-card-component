@@ -22,7 +22,7 @@ This Order summary card challenge solution presented here showcases a sleek and 
 
 ### Links
 
-- Solution URL: [https://github.com/itzvikashgupta/stats-preview-card]
+- Solution URL: [https://github.com/itzvikashgupta/stats-preview-card-component]
 - Live Site URL: [https://stats-preview-card-soln.netlify.app/]
 
 ## My Process
